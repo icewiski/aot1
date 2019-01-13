@@ -1,0 +1,24 @@
+{"level":"error","message":"Request Error /locations/%E5%9F%8E%E5%A0%A1 - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-10T11:59:45.820Z"}
+{"level":"error","message":"Request Error /locations/%E5%9F%8E%E5%A0%A1 - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-10T12:00:36.566Z"}
+{"level":"error","message":"Request Error /locations/%E5%9F%8E%E5%A0%A1 - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-10T12:00:42.581Z"}
+{"level":"error","message":"Request Error /locations/%E5%9F%8E%E5%A0%A1 - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-10T12:00:55.394Z"}
+{"level":"error","message":"Request Error /locations/%E5%9F%8E%E5%A0%A1 - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-10T12:23:15.313Z"}
+{"level":"error","message":"Request Error /characters/jon - Invalid URL Parameters - child \"id\" fails because [\"id\" is required]","timestamp":"2019-01-11T16:24:11.843Z"}
+{"level":"error","message":"Request Error /characters/jon - column \"geog\" does not exist","timestamp":"2019-01-11T16:26:46.471Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:27:49.582Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:41:04.137Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:41:05.624Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:43:13.179Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:43:37.092Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:45:33.108Z"}
+{"level":"error","message":"Request Error /characters/jog - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:45:33.113Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:46:19.482Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:48:24.330Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:48:26.764Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:50:03.752Z"}
+{"level":"error","message":"Request Error /characters - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:51:15.156Z"}
+{"level":"error","message":"Request Error /characters/ - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:51:36.646Z"}
+{"level":"error","message":"Request Error /characters/ - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:56:26.496Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T17:00:21.499Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T17:00:25.689Z"}
+{"level":"error","message":"Request Error /characters/jon - permission denied for relation characters","timestamp":"2019-01-11T17:06:52.775Z"}

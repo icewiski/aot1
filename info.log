@@ -1,0 +1,307 @@
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-07T13:19:39.366Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-07T13:19:39.444Z"}
+{"level":"info","message":"GET 200 /kingdoms - 66 ms","timestamp":"2019-01-07T13:21:50.450Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-07T15:37:02.180Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-07T15:37:02.267Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-07T15:58:39.241Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-07T15:58:39.301Z"}
+{"level":"info","message":"GET 404 / - 1 ms","timestamp":"2019-01-07T15:58:52.913Z"}
+{"level":"info","message":"GET 404 /favicon.ico - 0 ms","timestamp":"2019-01-07T15:58:53.016Z"}
+{"level":"info","message":"GET 200 /kingdoms - 5 ms","timestamp":"2019-01-07T15:59:05.102Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-07T16:50:34.994Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-07T16:50:35.055Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-07T17:03:10.228Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-07T17:03:10.290Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-09T14:00:15.058Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-09T14:00:15.209Z"}
+{"level":"info","message":"GET 200 /kingdoms - 5 ms","timestamp":"2019-01-09T14:11:17.208Z"}
+{"level":"info","message":"GET 200 /locations/castle - 790 ms","timestamp":"2019-01-09T14:11:18.146Z"}
+{"level":"info","message":"GET 200 /locations/city - 2 ms","timestamp":"2019-01-09T14:11:18.157Z"}
+{"level":"info","message":"GET 200 /locations/town - 3 ms","timestamp":"2019-01-09T14:11:18.169Z"}
+{"level":"info","message":"GET 200 /locations/ruin - 61 ms","timestamp":"2019-01-09T14:11:18.287Z"}
+{"level":"info","message":"GET 200 /locations/region - 3 ms","timestamp":"2019-01-09T14:11:18.337Z"}
+{"level":"info","message":"GET 200 /locations/landmark - 2 ms","timestamp":"2019-01-09T14:11:18.399Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/size - 212 ms","timestamp":"2019-01-09T14:11:20.455Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/castles - 125 ms","timestamp":"2019-01-09T14:11:20.584Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/summary - 2 ms","timestamp":"2019-01-09T14:11:20.591Z"}
+{"level":"info","message":"GET 200 /locations/131/summary - 4 ms","timestamp":"2019-01-09T14:11:36.564Z"}
+{"level":"info","message":"GET 200 /locations/134/summary - 2 ms","timestamp":"2019-01-09T14:11:39.246Z"}
+{"level":"info","message":"GET 200 /locations/129/summary - 1 ms","timestamp":"2019-01-09T14:11:41.212Z"}
+{"level":"info","message":"GET 200 /locations/130/summary - 2 ms","timestamp":"2019-01-09T14:11:41.940Z"}
+{"level":"info","message":"GET 200 /locations/133/summary - 2 ms","timestamp":"2019-01-09T14:11:45.165Z"}
+{"level":"info","message":"GET 200 /locations/132/summary - 2 ms","timestamp":"2019-01-09T14:11:54.922Z"}
+{"level":"info","message":"GET 200 /locations/258/summary - 2 ms","timestamp":"2019-01-09T14:24:07.367Z"}
+{"level":"info","message":"GET 200 /locations/260/summary - 1 ms","timestamp":"2019-01-09T14:24:13.734Z"}
+{"level":"info","message":"GET 200 /locations/296/summary - 2 ms","timestamp":"2019-01-09T14:24:15.213Z"}
+{"level":"info","message":"GET 200 /locations/259/summary - 2 ms","timestamp":"2019-01-09T14:24:16.572Z"}
+{"level":"info","message":"GET 200 /locations/297/summary - 2 ms","timestamp":"2019-01-09T14:24:17.452Z"}
+{"level":"info","message":"GET 200 /locations/216/summary - 2 ms","timestamp":"2019-01-09T14:24:22.838Z"}
+{"level":"info","message":"GET 200 /locations/294/summary - 2 ms","timestamp":"2019-01-09T14:24:24.717Z"}
+{"level":"info","message":"GET 200 /locations/231/summary - 2 ms","timestamp":"2019-01-09T14:24:26.956Z"}
+{"level":"info","message":"GET 200 /locations/293/summary - 2 ms","timestamp":"2019-01-09T14:24:27.869Z"}
+{"level":"info","message":"GET 200 /locations/226/summary - 2 ms","timestamp":"2019-01-09T14:24:28.652Z"}
+{"level":"info","message":"GET 200 /locations/243/summary - 2 ms","timestamp":"2019-01-09T14:24:29.348Z"}
+{"level":"info","message":"GET 200 /locations/235/summary - 2 ms","timestamp":"2019-01-09T14:24:31.173Z"}
+{"level":"info","message":"GET 200 /locations/233/summary - 2 ms","timestamp":"2019-01-09T14:24:32.454Z"}
+{"level":"info","message":"GET 200 /locations/232/summary - 1 ms","timestamp":"2019-01-09T14:24:33.164Z"}
+{"level":"info","message":"GET 200 /locations/48/summary - 2 ms","timestamp":"2019-01-09T14:24:34.181Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/size - 3 ms","timestamp":"2019-01-09T14:24:49.317Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/castles - 8 ms","timestamp":"2019-01-09T14:24:49.331Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/summary - 1 ms","timestamp":"2019-01-09T14:24:49.338Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/size - 2 ms","timestamp":"2019-01-09T14:24:50.021Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/castles - 4 ms","timestamp":"2019-01-09T14:24:50.031Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/summary - 2 ms","timestamp":"2019-01-09T14:24:50.037Z"}
+{"level":"info","message":"GET 200 /kingdoms/9/size - 2 ms","timestamp":"2019-01-09T14:24:50.580Z"}
+{"level":"info","message":"GET 200 /kingdoms/9/castles - 7 ms","timestamp":"2019-01-09T14:24:50.592Z"}
+{"level":"info","message":"GET 200 /kingdoms/9/summary - 1 ms","timestamp":"2019-01-09T14:24:50.599Z"}
+{"level":"info","message":"GET 200 /kingdoms/11/size - 2 ms","timestamp":"2019-01-09T14:24:51.011Z"}
+{"level":"info","message":"GET 200 /kingdoms/11/castles - 25 ms","timestamp":"2019-01-09T14:24:51.042Z"}
+{"level":"info","message":"GET 200 /kingdoms/11/summary - 1 ms","timestamp":"2019-01-09T14:24:51.049Z"}
+{"level":"info","message":"GET 200 /kingdoms/7/size - 3 ms","timestamp":"2019-01-09T14:24:51.387Z"}
+{"level":"info","message":"GET 200 /kingdoms/7/castles - 9 ms","timestamp":"2019-01-09T14:24:51.402Z"}
+{"level":"info","message":"GET 200 /kingdoms/7/summary - 2 ms","timestamp":"2019-01-09T14:24:51.409Z"}
+{"level":"info","message":"GET 200 /locations/176/summary - 2 ms","timestamp":"2019-01-09T14:24:58.140Z"}
+{"level":"info","message":"GET 200 /locations/178/summary - 2 ms","timestamp":"2019-01-09T14:24:59.509Z"}
+{"level":"info","message":"GET 200 /locations/177/summary - 1 ms","timestamp":"2019-01-09T14:25:00.227Z"}
+{"level":"info","message":"GET 200 /locations/175/summary - 1 ms","timestamp":"2019-01-09T14:25:01.324Z"}
+{"level":"info","message":"GET 200 /kingdoms - 3 ms","timestamp":"2019-01-09T15:36:13.107Z"}
+{"level":"info","message":"GET 200 /locations/castle - 0 ms","timestamp":"2019-01-09T15:36:13.228Z"}
+{"level":"info","message":"GET 200 /locations/city - 0 ms","timestamp":"2019-01-09T15:36:13.242Z"}
+{"level":"info","message":"GET 200 /locations/town - 0 ms","timestamp":"2019-01-09T15:36:13.252Z"}
+{"level":"info","message":"GET 200 /locations/ruin - 1 ms","timestamp":"2019-01-09T15:36:13.257Z"}
+{"level":"info","message":"GET 200 /locations/region - 1 ms","timestamp":"2019-01-09T15:36:13.262Z"}
+{"level":"info","message":"GET 200 /locations/landmark - 1 ms","timestamp":"2019-01-09T15:36:13.273Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/size - 0 ms","timestamp":"2019-01-09T15:47:58.801Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/castles - 1 ms","timestamp":"2019-01-09T15:47:58.808Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/summary - 0 ms","timestamp":"2019-01-09T15:47:58.815Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/size - 1 ms","timestamp":"2019-01-09T16:09:22.215Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/castles - 0 ms","timestamp":"2019-01-09T16:09:22.222Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/summary - 1 ms","timestamp":"2019-01-09T16:09:22.230Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/size - 1 ms","timestamp":"2019-01-09T16:09:22.726Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/castles - 0 ms","timestamp":"2019-01-09T16:09:22.731Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/summary - 0 ms","timestamp":"2019-01-09T16:09:22.736Z"}
+{"level":"info","message":"GET 200 /kingdoms/9/size - 0 ms","timestamp":"2019-01-09T16:09:23.383Z"}
+{"level":"info","message":"GET 200 /kingdoms/9/castles - 1 ms","timestamp":"2019-01-09T16:09:23.389Z"}
+{"level":"info","message":"GET 200 /kingdoms/9/summary - 0 ms","timestamp":"2019-01-09T16:09:23.395Z"}
+{"level":"info","message":"GET 200 /kingdoms/11/size - 0 ms","timestamp":"2019-01-09T16:09:23.838Z"}
+{"level":"info","message":"GET 200 /kingdoms/11/castles - 0 ms","timestamp":"2019-01-09T16:09:23.844Z"}
+{"level":"info","message":"GET 200 /kingdoms/11/summary - 1 ms","timestamp":"2019-01-09T16:09:23.849Z"}
+{"level":"info","message":"GET 200 /kingdoms/7/size - 0 ms","timestamp":"2019-01-09T16:09:24.358Z"}
+{"level":"info","message":"GET 200 /kingdoms/7/castles - 1 ms","timestamp":"2019-01-09T16:09:24.364Z"}
+{"level":"info","message":"GET 200 /kingdoms/7/summary - 0 ms","timestamp":"2019-01-09T16:09:24.370Z"}
+{"level":"info","message":"GET 200 /kingdoms/10/size - 3 ms","timestamp":"2019-01-09T16:09:24.888Z"}
+{"level":"info","message":"GET 200 /kingdoms/10/castles - 8 ms","timestamp":"2019-01-09T16:09:24.901Z"}
+{"level":"info","message":"GET 200 /kingdoms/10/summary - 2 ms","timestamp":"2019-01-09T16:09:24.908Z"}
+{"level":"info","message":"GET 200 /locations/292/summary - 3 ms","timestamp":"2019-01-09T16:59:07.854Z"}
+{"level":"info","message":"GET 200 /locations/48/summary - 1 ms","timestamp":"2019-01-09T16:59:09.842Z"}
+{"level":"info","message":"GET 200 /locations/216/summary - 1 ms","timestamp":"2019-01-09T16:59:12.049Z"}
+{"level":"info","message":"GET 200 /locations/248/summary - 1 ms","timestamp":"2019-01-09T16:59:26.297Z"}
+{"level":"info","message":"GET 200 /locations/250/summary - 2 ms","timestamp":"2019-01-09T16:59:27.794Z"}
+{"level":"info","message":"GET 200 /locations/249/summary - 1 ms","timestamp":"2019-01-09T16:59:29.033Z"}
+{"level":"info","message":"GET 200 /locations/263/summary - 1 ms","timestamp":"2019-01-09T16:59:30.689Z"}
+{"level":"info","message":"GET 200 /locations/259/summary - 1 ms","timestamp":"2019-01-09T16:59:32.600Z"}
+{"level":"info","message":"GET 200 /locations/297/summary - 0 ms","timestamp":"2019-01-09T16:59:34.007Z"}
+{"level":"info","message":"GET 200 /locations/260/summary - 0 ms","timestamp":"2019-01-09T16:59:36.130Z"}
+{"level":"info","message":"GET 200 /locations/247/summary - 2 ms","timestamp":"2019-01-09T16:59:40.313Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-10T11:22:03.734Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-10T11:22:03.893Z"}
+{"level":"info","message":"GET 200 /kingdoms - 6 ms","timestamp":"2019-01-10T11:22:28.391Z"}
+{"level":"info","message":"GET 200 /locations/castle - 1 ms","timestamp":"2019-01-10T11:22:28.507Z"}
+{"level":"info","message":"GET 200 /locations/city - 0 ms","timestamp":"2019-01-10T11:22:28.521Z"}
+{"level":"info","message":"GET 200 /locations/town - 1 ms","timestamp":"2019-01-10T11:22:28.540Z"}
+{"level":"info","message":"GET 200 /locations/ruin - 1 ms","timestamp":"2019-01-10T11:22:28.546Z"}
+{"level":"info","message":"GET 200 /locations/region - 0 ms","timestamp":"2019-01-10T11:22:28.555Z"}
+{"level":"info","message":"GET 200 /locations/landmark - 1 ms","timestamp":"2019-01-10T11:22:28.567Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/size - 0 ms","timestamp":"2019-01-10T11:22:37.493Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/castles - 0 ms","timestamp":"2019-01-10T11:22:37.498Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/summary - 0 ms","timestamp":"2019-01-10T11:22:37.505Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/size - 1 ms","timestamp":"2019-01-10T11:22:38.119Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/castles - 0 ms","timestamp":"2019-01-10T11:22:38.124Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/summary - 10 ms","timestamp":"2019-01-10T11:22:38.141Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/size - 0 ms","timestamp":"2019-01-10T11:22:38.484Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/castles - 1 ms","timestamp":"2019-01-10T11:22:38.489Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/summary - 0 ms","timestamp":"2019-01-10T11:22:38.494Z"}
+{"level":"info","message":"GET 200 /locations/126/summary - 573 ms","timestamp":"2019-01-10T11:22:50.705Z"}
+{"level":"info","message":"GET 200 /locations/132/summary - 1 ms","timestamp":"2019-01-10T11:25:17.568Z"}
+{"level":"info","message":"GET 200 /locations/177/summary - 0 ms","timestamp":"2019-01-10T11:26:07.338Z"}
+{"level":"info","message":"GET 200 /locations/176/summary - 0 ms","timestamp":"2019-01-10T11:26:08.623Z"}
+{"level":"info","message":"GET 200 /locations/1/summary - 17 ms","timestamp":"2019-01-10T11:26:10.255Z"}
+{"level":"info","message":"GET 200 /locations/136/summary - 14 ms","timestamp":"2019-01-10T11:26:33.132Z"}
+{"level":"info","message":"GET 200 /locations/197/summary - 2 ms","timestamp":"2019-01-10T11:26:44.033Z"}
+{"level":"info","message":"GET 200 /locations/185/summary - 2 ms","timestamp":"2019-01-10T11:26:57.960Z"}
+{"level":"info","message":"GET 200 /locations/248/summary - 0 ms","timestamp":"2019-01-10T11:27:06.023Z"}
+{"level":"info","message":"GET 200 /locations/250/summary - 1 ms","timestamp":"2019-01-10T11:27:07.430Z"}
+{"level":"info","message":"GET 200 /locations/249/summary - 0 ms","timestamp":"2019-01-10T11:27:09.231Z"}
+{"level":"info","message":"GET 200 /locations/207/summary - 2 ms","timestamp":"2019-01-10T11:27:15.103Z"}
+{"level":"info","message":"GET 200 /locations/206/summary - 15 ms","timestamp":"2019-01-10T11:27:15.885Z"}
+{"level":"info","message":"GET 200 /kingdoms/3/size - 282 ms","timestamp":"2019-01-10T11:27:30.063Z"}
+{"level":"info","message":"GET 200 /kingdoms/3/castles - 140 ms","timestamp":"2019-01-10T11:27:30.220Z"}
+{"level":"info","message":"GET 200 /kingdoms/3/summary - 5 ms","timestamp":"2019-01-10T11:27:30.242Z"}
+{"level":"info","message":"GET 200 /locations/292/summary - 0 ms","timestamp":"2019-01-10T11:27:52.910Z"}
+{"level":"info","message":"GET 200 /locations/257/summary - 2 ms","timestamp":"2019-01-10T11:27:56.440Z"}
+{"level":"info","message":"GET 200 /locations/315/summary - 2 ms","timestamp":"2019-01-10T11:27:58.439Z"}
+{"level":"info","message":"GET 200 /kingdoms - 3 ms","timestamp":"2019-01-10T11:58:21.668Z"}
+{"level":"info","message":"GET 200 /locations/castle - 1 ms","timestamp":"2019-01-10T11:58:21.773Z"}
+{"level":"info","message":"GET 200 /locations/city - 1 ms","timestamp":"2019-01-10T11:58:21.799Z"}
+{"level":"info","message":"GET 200 /locations/town - 1 ms","timestamp":"2019-01-10T11:58:21.807Z"}
+{"level":"info","message":"GET 200 /locations/ruin - 0 ms","timestamp":"2019-01-10T11:58:21.812Z"}
+{"level":"info","message":"GET 200 /locations/region - 1 ms","timestamp":"2019-01-10T11:58:21.817Z"}
+{"level":"info","message":"GET 200 /locations/landmark - 1 ms","timestamp":"2019-01-10T11:58:21.823Z"}
+{"level":"info","message":"GET 200 /kingdoms - 3 ms","timestamp":"2019-01-10T11:59:45.719Z"}
+{"level":"error","message":"Request Error /locations/%E5%9F%8E%E5%A0%A1 - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-10T11:59:45.820Z"}
+{"level":"info","message":"GET 400 /locations/%E5%9F%8E%E5%A0%A1 - 4 ms","timestamp":"2019-01-10T11:59:45.820Z"}
+{"level":"error","message":"Request Error /locations/%E5%9F%8E%E5%A0%A1 - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-10T12:00:36.566Z"}
+{"level":"info","message":"GET 400 /locations/%E5%9F%8E%E5%A0%A1 - 1 ms","timestamp":"2019-01-10T12:00:36.567Z"}
+{"level":"error","message":"Request Error /locations/%E5%9F%8E%E5%A0%A1 - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-10T12:00:42.581Z"}
+{"level":"info","message":"GET 400 /locations/%E5%9F%8E%E5%A0%A1 - 1 ms","timestamp":"2019-01-10T12:00:42.581Z"}
+{"level":"info","message":"GET 200 /kingdoms - 3 ms","timestamp":"2019-01-10T12:00:55.298Z"}
+{"level":"error","message":"Request Error /locations/%E5%9F%8E%E5%A0%A1 - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-10T12:00:55.393Z"}
+{"level":"info","message":"GET 400 /locations/%E5%9F%8E%E5%A0%A1 - 2 ms","timestamp":"2019-01-10T12:00:55.394Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/size - 0 ms","timestamp":"2019-01-10T12:01:02.346Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/castles - 0 ms","timestamp":"2019-01-10T12:01:02.351Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/summary - 0 ms","timestamp":"2019-01-10T12:01:02.357Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/size - 0 ms","timestamp":"2019-01-10T12:01:03.832Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/castles - 0 ms","timestamp":"2019-01-10T12:01:03.838Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/summary - 1 ms","timestamp":"2019-01-10T12:01:03.843Z"}
+{"level":"error","message":"Request Error /locations/%E5%9F%8E%E5%A0%A1 - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-10T12:23:15.313Z"}
+{"level":"info","message":"GET 400 /locations/%E5%9F%8E%E5%A0%A1 - 2 ms","timestamp":"2019-01-10T12:23:15.313Z"}
+{"level":"info","message":"GET 200 /kingdoms - 3 ms","timestamp":"2019-01-10T12:23:30.802Z"}
+{"level":"info","message":"GET 200 /locations/castle - 0 ms","timestamp":"2019-01-10T12:23:30.903Z"}
+{"level":"info","message":"GET 200 /locations/city - 1 ms","timestamp":"2019-01-10T12:23:30.928Z"}
+{"level":"info","message":"GET 200 /locations/town - 1 ms","timestamp":"2019-01-10T12:23:30.937Z"}
+{"level":"info","message":"GET 200 /locations/ruin - 0 ms","timestamp":"2019-01-10T12:23:30.943Z"}
+{"level":"info","message":"GET 200 /locations/region - 1 ms","timestamp":"2019-01-10T12:23:30.948Z"}
+{"level":"info","message":"GET 200 /locations/landmark - 0 ms","timestamp":"2019-01-10T12:23:30.956Z"}
+{"level":"info","message":"GET 200 /locations/1/summary - 1 ms","timestamp":"2019-01-10T12:23:35.294Z"}
+{"level":"info","message":"GET 200 /kingdoms - 2 ms","timestamp":"2019-01-10T12:24:47.353Z"}
+{"level":"info","message":"GET 200 /locations/castle - 0 ms","timestamp":"2019-01-10T12:24:47.453Z"}
+{"level":"info","message":"GET 200 /locations/city - 1 ms","timestamp":"2019-01-10T12:24:47.476Z"}
+{"level":"info","message":"GET 200 /locations/town - 1 ms","timestamp":"2019-01-10T12:24:47.504Z"}
+{"level":"info","message":"GET 200 /locations/ruin - 1 ms","timestamp":"2019-01-10T12:24:47.509Z"}
+{"level":"info","message":"GET 200 /locations/region - 0 ms","timestamp":"2019-01-10T12:24:47.514Z"}
+{"level":"info","message":"GET 200 /locations/landmark - 0 ms","timestamp":"2019-01-10T12:24:47.523Z"}
+{"level":"info","message":"GET 200 /locations/1/summary - 1 ms","timestamp":"2019-01-10T12:24:50.281Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:09:42.566Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:09:42.718Z"}
+{"level":"info","message":"GET 404 /kingdoms/1/castles. - 1 ms","timestamp":"2019-01-11T16:13:57.551Z"}
+{"level":"info","message":"GET 404 /favicon.ico - 0 ms","timestamp":"2019-01-11T16:13:57.656Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/castles - 4 ms","timestamp":"2019-01-11T16:14:00.280Z"}
+{"level":"info","message":"GET 404 /characters - 0 ms","timestamp":"2019-01-11T16:14:09.449Z"}
+{"level":"info","message":"GET 404 /characters/jog - 0 ms","timestamp":"2019-01-11T16:23:28.630Z"}
+{"level":"info","message":"GET 404 /characters/jon - 0 ms","timestamp":"2019-01-11T16:23:33.254Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:24:06.655Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:24:06.702Z"}
+{"level":"error","message":"Request Error /characters/jon - Invalid URL Parameters - child \"id\" fails because [\"id\" is required]","timestamp":"2019-01-11T16:24:11.843Z"}
+{"level":"info","message":"GET 400 /characters/jon - 7 ms","timestamp":"2019-01-11T16:24:11.844Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:26:39.854Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:26:39.912Z"}
+{"level":"error","message":"Request Error /characters/jon - column \"geog\" does not exist","timestamp":"2019-01-11T16:26:46.471Z"}
+{"level":"info","message":"GET 500 /characters/jon - 10 ms","timestamp":"2019-01-11T16:26:46.472Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:27:45.694Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:27:45.852Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:27:49.582Z"}
+{"level":"info","message":"GET 500 /characters/jon - 6 ms","timestamp":"2019-01-11T16:27:49.582Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:41:04.137Z"}
+{"level":"info","message":"GET 500 /characters/jon - 4 ms","timestamp":"2019-01-11T16:41:04.137Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:41:05.623Z"}
+{"level":"info","message":"GET 500 /characters/jon - 5 ms","timestamp":"2019-01-11T16:41:05.624Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:43:04.718Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:43:04.776Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:43:11.178Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:43:11.242Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:43:13.179Z"}
+{"level":"info","message":"GET 500 /characters/jon - 7 ms","timestamp":"2019-01-11T16:43:13.179Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:43:37.092Z"}
+{"level":"info","message":"GET 500 /characters/jon - 4 ms","timestamp":"2019-01-11T16:43:37.092Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/size - 1 ms","timestamp":"2019-01-11T16:45:33.095Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/size - 8 ms","timestamp":"2019-01-11T16:45:33.106Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:45:33.108Z"}
+{"level":"info","message":"GET 500 /characters/jon - 8 ms","timestamp":"2019-01-11T16:45:33.109Z"}
+{"level":"error","message":"Request Error /characters/jog - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:45:33.113Z"}
+{"level":"info","message":"GET 500 /characters/jog - 12 ms","timestamp":"2019-01-11T16:45:33.114Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:46:00.710Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:46:00.769Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/size - 3 ms","timestamp":"2019-01-11T16:46:02.299Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:46:19.482Z"}
+{"level":"info","message":"GET 500 /characters/jon - 5 ms","timestamp":"2019-01-11T16:46:19.483Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:48:21.238Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:48:21.298Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:48:24.330Z"}
+{"level":"info","message":"GET 500 /characters/jon - 6 ms","timestamp":"2019-01-11T16:48:24.331Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:48:26.764Z"}
+{"level":"info","message":"GET 500 /characters/jon - 3 ms","timestamp":"2019-01-11T16:48:26.765Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:50:02.032Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:50:02.096Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:50:03.752Z"}
+{"level":"info","message":"GET 500 /characters/jon - 7 ms","timestamp":"2019-01-11T16:50:03.754Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:51:05.931Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:51:05.980Z"}
+{"level":"info","message":"GET 404 /characters/jon - 2 ms","timestamp":"2019-01-11T16:51:07.786Z"}
+{"level":"error","message":"Request Error /characters - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:51:15.155Z"}
+{"level":"info","message":"GET 500 /characters - 7 ms","timestamp":"2019-01-11T16:51:15.156Z"}
+{"level":"error","message":"Request Error /characters/ - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:51:36.646Z"}
+{"level":"info","message":"GET 500 /characters/ - 2 ms","timestamp":"2019-01-11T16:51:36.647Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:56:22.996Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:56:23.055Z"}
+{"level":"error","message":"Request Error /characters/ - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T16:56:26.496Z"}
+{"level":"info","message":"GET 500 /characters/ - 8 ms","timestamp":"2019-01-11T16:56:26.497Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T16:59:53.692Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T16:59:53.750Z"}
+{"level":"info","message":"GET 404 /characters/ - 1 ms","timestamp":"2019-01-11T17:00:03.552Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T17:00:21.499Z"}
+{"level":"info","message":"GET 500 /characters/jon - 12 ms","timestamp":"2019-01-11T17:00:21.500Z"}
+{"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T17:00:25.689Z"}
+{"level":"info","message":"GET 500 /characters/jon - 7 ms","timestamp":"2019-01-11T17:00:25.689Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-11T17:06:48.447Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-11T17:06:48.511Z"}
+{"level":"error","message":"Request Error /characters/jon - permission denied for relation characters","timestamp":"2019-01-11T17:06:52.775Z"}
+{"level":"info","message":"GET 500 /characters/jon - 45 ms","timestamp":"2019-01-11T17:06:52.775Z"}
+{"level":"info","message":"GET 200 /characters/jon - 7 ms","timestamp":"2019-01-11T17:08:44.368Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-13T08:20:09.755Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-13T08:20:09.892Z"}
+{"level":"info","message":"GET 200 /kingdoms - 7 ms","timestamp":"2019-01-13T08:39:49.146Z"}
+{"level":"info","message":"GET 404 /favicon.ico - 0 ms","timestamp":"2019-01-13T08:39:49.581Z"}
+{"level":"info","message":"GET 200 /kingdoms - 4 ms","timestamp":"2019-01-13T08:47:17.069Z"}
+{"level":"info","message":"GET 200 /kingdoms - 2 ms","timestamp":"2019-01-13T08:47:21.824Z"}
+{"level":"info","message":"Server listening at port 5000","timestamp":"2019-01-13T10:01:01.218Z"}
+{"level":"info","message":"Connected To atlas_of_thrones at localhost:5432","timestamp":"2019-01-13T10:01:01.346Z"}
+{"level":"info","message":"GET 200 /kingdoms - 6 ms","timestamp":"2019-01-13T10:13:49.855Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/size - 0 ms","timestamp":"2019-01-13T10:13:59.072Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/castles - 0 ms","timestamp":"2019-01-13T10:13:59.077Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/summary - 0 ms","timestamp":"2019-01-13T10:13:59.083Z"}
+{"level":"info","message":"GET 200 /kingdoms - 3 ms","timestamp":"2019-01-13T10:15:11.712Z"}
+{"level":"info","message":"GET 200 /locations/castle - 3 ms","timestamp":"2019-01-13T10:15:11.832Z"}
+{"level":"info","message":"GET 200 /locations/city - 1 ms","timestamp":"2019-01-13T10:15:11.860Z"}
+{"level":"info","message":"GET 200 /locations/town - 1 ms","timestamp":"2019-01-13T10:15:11.893Z"}
+{"level":"info","message":"GET 200 /locations/ruin - 1 ms","timestamp":"2019-01-13T10:15:11.906Z"}
+{"level":"info","message":"GET 200 /locations/region - 1 ms","timestamp":"2019-01-13T10:15:11.919Z"}
+{"level":"info","message":"GET 200 /locations/landmark - 1 ms","timestamp":"2019-01-13T10:15:11.929Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/size - 0 ms","timestamp":"2019-01-13T10:15:19.903Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/castles - 0 ms","timestamp":"2019-01-13T10:15:19.909Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/summary - 0 ms","timestamp":"2019-01-13T10:15:19.914Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/size - 1 ms","timestamp":"2019-01-13T10:15:21.172Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/castles - 0 ms","timestamp":"2019-01-13T10:15:21.178Z"}
+{"level":"info","message":"GET 200 /kingdoms/8/summary - 1 ms","timestamp":"2019-01-13T10:15:21.186Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/size - 0 ms","timestamp":"2019-01-13T10:15:22.652Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/castles - 0 ms","timestamp":"2019-01-13T10:15:22.658Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/summary - 0 ms","timestamp":"2019-01-13T10:15:22.664Z"}
+{"level":"info","message":"GET 200 /kingdoms - 3 ms","timestamp":"2019-01-13T10:16:48.426Z"}
+{"level":"info","message":"GET 200 /locations/castle - 1 ms","timestamp":"2019-01-13T10:16:48.541Z"}
+{"level":"info","message":"GET 200 /locations/city - 1 ms","timestamp":"2019-01-13T10:16:48.562Z"}
+{"level":"info","message":"GET 200 /locations/town - 1 ms","timestamp":"2019-01-13T10:16:48.594Z"}
+{"level":"info","message":"GET 200 /locations/ruin - 1 ms","timestamp":"2019-01-13T10:16:48.606Z"}
+{"level":"info","message":"GET 200 /locations/region - 0 ms","timestamp":"2019-01-13T10:16:48.613Z"}
+{"level":"info","message":"GET 200 /locations/landmark - 0 ms","timestamp":"2019-01-13T10:16:48.624Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/size - 0 ms","timestamp":"2019-01-13T10:16:50.118Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/castles - 1 ms","timestamp":"2019-01-13T10:16:50.125Z"}
+{"level":"info","message":"GET 200 /kingdoms/5/summary - 1 ms","timestamp":"2019-01-13T10:16:50.131Z"}
+{"level":"info","message":"GET 200 /locations/14/summary - 460 ms","timestamp":"2019-01-13T10:16:55.502Z"}
+{"level":"info","message":"GET 200 /locations/3/summary - 14 ms","timestamp":"2019-01-13T10:17:00.199Z"}
+{"level":"info","message":"GET 200 /locations/2/summary - 2 ms","timestamp":"2019-01-13T10:17:01.047Z"}
+{"level":"info","message":"GET 200 /kingdoms/10/size - 0 ms","timestamp":"2019-01-13T10:17:05.525Z"}
+{"level":"info","message":"GET 200 /kingdoms/10/castles - 0 ms","timestamp":"2019-01-13T10:17:05.533Z"}
+{"level":"info","message":"GET 200 /kingdoms/10/summary - 0 ms","timestamp":"2019-01-13T10:17:05.540Z"}
+{"level":"info","message":"GET 200 /locations/1/summary - 1 ms","timestamp":"2019-01-13T10:17:09.158Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/size - 1 ms","timestamp":"2019-01-13T10:17:19.541Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/castles - 0 ms","timestamp":"2019-01-13T10:17:19.547Z"}
+{"level":"info","message":"GET 200 /kingdoms/1/summary - 1 ms","timestamp":"2019-01-13T10:17:19.553Z"}
