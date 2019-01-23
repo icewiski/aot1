@@ -41,6 +41,6 @@ export class  CharPanel extends Component {
     this.componentElem.querySelector(`[ref=${layerName}-toggle]`).classList.toggle('toggle-active')
 
     // Trigger layer toggle callback
-    this.triggerEvent('layerToggle', layerName)
+    this.triggerEvent('charToggle', layerName)
   }
 }

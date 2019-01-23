@@ -1,6 +1,9 @@
 import './control-panel.scss'
 import template from './control-panel.html'
 import { Component } from '../component'
+const jsondata = require('../../resource/json')
+const kingdomsdata = require('../../resource/kingdomsdata')
+require('../../services/leafletmove')
 
 /**
  * Layer Panel Component
@@ -13,27 +16,43 @@ export class ControlPanel extends Component {
    */
   constructor (placeholderId, props) {
     super(placeholderId, props, template)
-    
-    // Toggle layer panel on click (mobile only)
-    this.refs.toggle.addEventListener('click', () => this.toggleLayerPanel())
 
+    this.epdata=kingdomsdata
+   
+    // Toggle layer panel on click (mobile only)
+    this.refs.playdatabtn.addEventListener('click', () => this.playdata())
+    this.refs.addepbtn.addEventListener('click', () => this.addep())
+    this.refs.minusepbtn.addEventListener('click', () => this.minusep())
+    
+    this.ss=parseInt(this.refs.ssvalue.getAttribute("value"))
+    this.ep=parseInt(this.refs.epvalue.getAttribute("value"))
+    this.refs.ssvalue.innerHTML =this.ss
+    this.refs.epvalue.innerHTML =this.ep
+    
     // Add a toggle button for each layer
-    props.data.layerNames.forEach((name) => this.addLayerButton(name)
-    )  }
+   // props.data.layerNames.forEach((name) => this.addLayerButton(name)) 
+   }
 
   /** Create and append new layer button DIV */
-  addLayerButton (layerName) {
-    let layerItem = document.createElement('div')
-    layerItem.textContent = `${layerName}s`
-    layerItem.setAttribute('ref', `${layerName}-toggle`)
-    layerItem.addEventListener('click', (e) => this.toggleMapLayer(layerName))
-    this.refs.buttons.appendChild(layerItem)
+  playdata(){
+    
+  console.log('play',typeof this.ss,this.ss,typeof this.ep,this.ep,this.epdata)
   }
 
-  /** Toggle the info panel (only applies to mobile) */
-  toggleLayerPanel () {
-    this.refs.panel.classList.toggle('layer-panel-active')
+  addep(){
+  this.ep=this.ep+1
+  this.refs.epvalue.innerHTML =this.ep
+  console.log('add',this.ep,typeof this.ep)
   }
+
+  minusep(){
+    this.ep=this.ep-1
+ this.refs.epvalue.innerHTML =this.ep
+  console.log('minus',this.ep,typeof this.ep)
+
+  }
+  /** Toggle the info panel (only applies to mobile) */
+
 
   /** Toggle map layer visibility */
   toggleMapLayer (layerName) {

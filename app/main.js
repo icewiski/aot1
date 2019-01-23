@@ -6,9 +6,9 @@ import { SearchService } from './services/search'
 import { Map } from './components/map/map'
 import { LayerPanel } from './components/layer-panel/layer-panel'
 import { InfoPanel } from './components/info-panel/info-panel'
-//import { CharPanel } from './components/char-panel/char-panel'
+import { CharPanel } from './components/char-panel/char-panel'
 import { SearchBar } from './components/search-bar/search-bar'
-//import { ControlPanel } from './components/control-panel/control-panel'
+import { ControlPanel } from './components/control-panel/control-panel'
 /** Main UI Controller Class */
 class ViewController {
   /** Initialize Application */
@@ -24,8 +24,8 @@ class ViewController {
       this.api = new ApiService('http://localhost:5000/')
     }
 
-    this.locationPointTypes = [ 'castle', 'city', 'town', 'ruin', 'region', 'landmark' ]
-    this.houseTypes = [ 'stark', 'tarlly', 'lion', 'deer', 'skin', 'dragon' ]
+    this.locationPointTypes = [ 'castle', 'city', 'town', 'ruin', 'region', 'landmark','character' ]
+    this.houseTypes = [ 'stark',  'Lannister' ]
     this.initializeComponents()
     this.loadMapData()
   }
@@ -54,13 +54,13 @@ class ViewController {
         event => { this.mapComponent.toggleLayer(event.detail) }
       }
     })
-  /**  this.charPanel = new CharPanel('char-panel-placeholder', {
-      data: { layerNames: ['kingdom', ...this.houseTypes] },
-      events: { layerToggle:
+    this.charPanel = new CharPanel('char-panel-placeholder', {
+      data: { layerNames: ['dead', ...this.houseTypes] },
+      events: { charToggle:
         // Toggle layer in map controller on "layerToggle" event
-        event => { this.mapComponent.toggleLayer(event.detail) }
+        event => { this.mapComponent.togglecharLayer(event.detail) }
       }
-    })**/
+    })
     // Initialize Search Panel
     this.searchBar = new SearchBar('search-panel-placeholder', {
       data: { searchService: this.searchService },
@@ -74,18 +74,13 @@ class ViewController {
         this.mapComponent.selectLocation(searchResult.id, searchResult.layerName)
       }}
     })
-     /**   this.ControlPanel = new ControlPanel('control-panel-placeholder', {
-      data: { searchService: this.searchService },
-      events: { resultSelected: event => {
-        // Show result on map when selected from search results
-        let searchResult = event.detail
-        if (!this.mapComponent.isLayerShowing(searchResult.layerName)) {
-          // Show result layer if currently hidden
-          this.layerPanel.toggleMapLayer(searchResult.layerName)
-        }
-        this.mapComponent.selectLocation(searchResult.id, searchResult.layerName)
-      }}
-    })*/
+   this.controlPanel = new ControlPanel('control-panel-placeholder', {
+      data: {  },
+      events: {
+
+
+      }
+    })
     
     
   }
@@ -108,6 +103,7 @@ class ViewController {
     for (let locationType of this.locationPointTypes) {
       // Download location type GeoJSON
       const geojson = await this.api.getLocations(locationType)
+    //  console.log(geojson)
 
       // Add location data to search service
       this.searchService.addGeoJsonItems(geojson, locationType)
@@ -115,11 +111,21 @@ class ViewController {
       // Add data to map
       this.mapComponent.addLocationGeojson(locationType, geojson, this.getIconUrl(locationType))
     }
+        for (let locationType of this.houseTypes) {
+      // Download location type GeoJSON
+      const geojson = await this.api.getLocations(locationType)
+    //  console.log(geojson)
+      // Add location data to search service
+      this.searchService.addGeoJsonItems(geojson, locationType)
+
+      // Add data to map
+      this.mapComponent.addCharnGeojson(locationType, geojson, this.getIconUrl(locationType))
+    }
   }
 
   /** Format icon url for layer type  */
   getIconUrl (layerName) {
-    return `https://cdn.patricktriest.com/atlas-of-thrones/icons/${layerName}.svg`
+    return `http://localhost:8001/svg/${layerName}.svg`
   }
 }
 

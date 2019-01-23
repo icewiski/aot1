@@ -42,12 +42,27 @@ export class Map extends Component {
     this.layers[layerTitle] = L.geoJSON(geojson, {
       // Show marker on location
       pointToLayer: (feature, latlng) => {
+        
         return L.marker(latlng, {
           icon: L.icon({ iconUrl, iconSize: [ 24, 56 ] }),
           title: feature.properties.name })
       },
       onEachFeature: this.onEachLocation.bind(this)
     })
+  }
+    addCharnGeojson (layerTitle, geojson, iconUrl) {
+    // Initialize new geojson layer
+    this.layers[layerTitle] = L.geoJSON(geojson, {
+      // Show marker on location
+      pointToLayer: (feature, latlng) => {
+        
+        return L.marker(latlng, {
+          icon: L.icon({ iconUrl, iconSize: [ 24, 56 ] }),
+          title: feature.properties.name })
+      },
+      onEachFeature: this.onEachLocation.bind(this)
+    })
+    console.log(this.layers[layerTitle])
   }
 
   /** Assign Popup and click listener for each location point */
@@ -102,6 +117,16 @@ export class Map extends Component {
   /** Toggle map layer visibility */
   toggleLayer (layerName) {
     const layer = this.layers[layerName]
+  
+    if (this.map.hasLayer(layer)) {
+      this.map.removeLayer(layer)
+    } else {
+      this.map.addLayer(layer)
+    }
+  }
+    togglecharLayer (layerName) {
+    const layer = this.layers[layerName]
+
     if (this.map.hasLayer(layer)) {
       this.map.removeLayer(layer)
     } else {

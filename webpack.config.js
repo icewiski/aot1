@@ -17,7 +17,7 @@ const scssLoader = {
 
 // URL loader to resolve data-urls at build time
 const urlLoader = {
-  test: /\.(png|woff|woff2|eot|ttf|svg)$/,
+  test: /\.(png|woff|woff2|eot|ttf|svg|mp3)$/,
   loader: 'url-loader?limit=100000'
 }
 

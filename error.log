@@ -22,3 +22,29 @@
 {"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T17:00:21.499Z"}
 {"level":"error","message":"Request Error /characters/jon - bind message supplies 1 parameters, but prepared statement \"\" requires 0","timestamp":"2019-01-11T17:00:25.689Z"}
 {"level":"error","message":"Request Error /characters/jon - permission denied for relation characters","timestamp":"2019-01-11T17:06:52.775Z"}
+{"level":"error","message":"Request Error /locations/character - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region]]","timestamp":"2019-01-13T16:18:14.159Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-13T16:34:05.510Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-13T16:37:54.117Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-13T16:38:14.340Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-13T16:55:51.457Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-13T17:05:47.944Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-13T17:06:02.982Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-13T17:06:08.118Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-13T17:06:08.886Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-13T17:07:46.126Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-13T17:08:13.524Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-14T14:21:52.821Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-14T14:22:14.889Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-14T14:46:55.149Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-14T15:34:09.258Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-14T17:00:26.552Z"}
+{"level":"error","message":"Request Error /locations/1001/summary - Invalid URL Parameters - child \"id\" fails because [\"id\" must be less than or equal to 1000]","timestamp":"2019-01-15T15:39:56.035Z"}
+{"level":"error","message":"Request Error /locations/stark - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region, character]]","timestamp":"2019-01-15T17:39:52.073Z"}
+{"level":"error","message":"Request Error /locations/stark - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region, character]]","timestamp":"2019-01-15T17:40:24.001Z"}
+{"level":"error","message":"Request Error /locations/stark - Not Found","timestamp":"2019-01-15T17:43:13.009Z"}
+{"level":"error","message":"Request Error /locations/stark - Not Found","timestamp":"2019-01-15T17:43:27.105Z"}
+{"level":"error","message":"Request Error /locations/stark - Not Found","timestamp":"2019-01-15T17:43:36.802Z"}
+{"level":"error","message":"Request Error /locations/stark - Not Found","timestamp":"2019-01-15T17:44:14.731Z"}
+{"level":"error","message":"Request Error /locations/stark - Not Found","timestamp":"2019-01-15T17:48:10.965Z"}
+{"level":"error","message":"Request Error /locations/tarlly - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region, character, stark, Lannister]]","timestamp":"2019-01-15T17:50:43.498Z"}
+{"level":"error","message":"Request Error /locations/tarlly - Invalid URL Parameters - child \"type\" fails because [\"type\" must be one of [castle, city, town, ruin, landmark, region, character, stark, Lannister]]","timestamp":"2019-01-15T17:53:26.397Z"}
