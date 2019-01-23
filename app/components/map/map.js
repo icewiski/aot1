@@ -21,7 +21,7 @@ export class Map extends Component {
     this.map = L.map(this.refs.mapContainer, {
       center: [ 5, 20 ],
       zoom: 4,
-      maxZoom: 8,
+      maxZoom: 7,
       minZoom: 4,
       maxBounds: [ [ 50, -30 ], [ -45, 100 ] ]
     })
@@ -32,7 +32,7 @@ export class Map extends Component {
 
     // Render Carto GoT tile baselayer
     L.tileLayer(
-      'http://localhost:8001/{z}/{x}/{y}.png',
+      './map/{z}/{x}/{y}.png',
       { crs: L.CRS.EPSG4326 }).addTo(this.map)
   }
 
